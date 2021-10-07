@@ -1,10 +1,15 @@
 # Tkinter_TodoList
 This is a small TODO-List app made with python tkinter.
+![](img01.png)
 
 # Requirements
 The Only Requirement is Tkinter (which comes pre-installed with python.)
 
 # Usage
+`
+$ python3 MY_tk_todo.py
+`
+
 The Tkinter_Todo_list.py is the main program file for the app.
 The App coude also be run using the exe file.
 
